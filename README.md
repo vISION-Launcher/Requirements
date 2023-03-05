@@ -1,5 +1,5 @@
 # Requirements
-- Apache or nginx webserver (recommended to be hosted on a VPS or Dedicated)
+- Apache or nginx webserver (I recommended hosting the API on a VPS or Dedicated)
 
 
 # Webserver extensions
