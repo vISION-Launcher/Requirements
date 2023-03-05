@@ -10,6 +10,7 @@
   - Make sure you selected [.NET desktop development workload](https://learn.microsoft.com/en-us/visualstudio/install/modify-visual-studio?view=vs-2022) when installed
 
 # Webserver extensions
-- GMP
-- Soap
 - Mysqli
+- Soap
+- GMP
+- cURL
